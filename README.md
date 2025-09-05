@@ -32,7 +32,7 @@ These are files (or directories) that I created from the original extracted zip 
 
 - dags, logs, plugins (directory)
 - dags/bci_interview_dag.py
-- src/\__init__.py
+- src/\_\_init\_\_.py
 
 ## File Generated
 
