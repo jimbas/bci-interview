@@ -7,7 +7,6 @@ Test result for BCI Interview
 - I use Windows 11 with WSL2 running Debian 11
 - I use Sublime for Windows so the files that created or modified would be **Windows line-ending** file
 - The real **.env** file contains Location IQ API Key registered to my personal gmail so it is not included it this repo
-- File original-bci-interview.zip is the original source the I've received
 - I use **Pylint** as a code-checker so all python codes on directory 'src' begins with '#pylint: disable=...'
 
 ## Files Modified
