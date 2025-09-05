@@ -27,7 +27,7 @@ These are files that I modified from the original source
 
 ## Files Created
 
-These are files (or directories) that I created (not available on the original source)
+These are files (or directories) that I created (doesn't exist on the original source)
 
 - dags, logs, plugins (directory)
 - dags/bci_interview_dag.py
