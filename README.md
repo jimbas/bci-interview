@@ -20,7 +20,7 @@ These are files that I modified from the original extracted zip file
 
 ### Heavily Modified
 
-- .env (still original. Please refer to google drive link in the replied email)
+- .env (still original. Please refer to google-drive link in the replied email)
 - src/integrations/geocode_util.py
 - src/transformers/address_transformer.py
 - src/utils/reader.py
@@ -42,7 +42,7 @@ Once the **bci_interview_dag** dag manually run. It should be generate a json fi
 
 ## Build & Run
 
-Download the **.env** file from the google link in the replied email
+Download the **.env** file from the google-drive link in the replied email
 
 ```
 git clone https://github.com/jimbas/bci-interview
