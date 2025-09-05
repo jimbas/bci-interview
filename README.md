@@ -35,7 +35,7 @@ These are files (or directories) that I created (doesn't exist on the original s
 
 ## File Generated
 
-Once the **bci_interview_dag** dag manually run. It should be generate a json file on directory **data/int_test_output**
+Once the **bci_interview_dag** dag manually run. It should generates a json file on directory **data/int_test_output**
 
 - data/int_test_output/output_sample.json
 
